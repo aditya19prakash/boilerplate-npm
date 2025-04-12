@@ -7,15 +7,15 @@
 	"scripts": {
 	  "start": "node server.js"
 	},
+	"dependencies": {
+	  "express": "^4.14.0",
+	  "@freecodecamp/example": "1.2.13"
+	},
 	"repository": {
 	  "type": "git",
 	  "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"keywords": ["freecodecamp", "descriptive", "related", "words"],
-	"license": "MIT",
-	"dependencies": {
-	  "express": "4.14.0",
-	  "@freecodecamp/example": "1.1.0"
-	}
+	"license": "MIT"
   }
   
